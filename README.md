@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KumarTheVishrut
-- 👀 I’m interested in full stack devlopment and automation projects
-- 🌱 I’m currently learning ASL and react
-- 💞️ I’m looking to collaborate on projects regarding automation with python
+- I use arch btw
 - 📫 How to reach me ...
 mail me @- thevishrutkumar@gmail.com
 <!---
